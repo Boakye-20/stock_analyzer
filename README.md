@@ -28,7 +28,7 @@ A professional stock analysis tool that generates comprehensive technical analys
 
 The dashboard generates a comprehensive multi-panel analysis:
 
-![AAPL Analysis Dashboard](examples/AAPL_dashboard.png)
+![MSFT Analysis Dashboard](examples/MSFT_dashboard.png)
 
 ### Dashboard Components:
 - Price action with moving averages
