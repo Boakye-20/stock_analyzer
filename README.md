@@ -186,12 +186,15 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Paul Kwarteng**
 
 - LinkedIn: [Paul Kwarteng](https://www.linkedin.com/in/paul-kwarteng-22a71b196/)
 - GitHub: [@Boakye-20](https://github.com/Boakye-20)
+
+**Dean Mahmood**
+- LinkedIn: [Dean Mahmood](https://www.linkedin.com/in/dean-mahmood-847aa21b5/)
 
 
 ⭐ If you find this project useful, please consider giving it a star!
