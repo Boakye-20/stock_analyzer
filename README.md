@@ -28,7 +28,7 @@ A professional stock analysis tool that generates comprehensive technical analys
 
 The dashboard generates a comprehensive multi-panel analysis:
 
-![MSFT Analysis Dashboard](examples/MSFT_dashboard.png)
+![GOOG Analysis Dashboard](examples/GOOG_dashboard-06-06-25.png)
 
 ### Dashboard Components:
 - Price action with moving averages
@@ -42,8 +42,8 @@ The dashboard generates a comprehensive multi-panel analysis:
 ### More Examples:
 | Stock | Analysis |
 |-------|----------|
-| Microsoft | ![MSFT Dashboard](examples/MSFT_dashboard.png) |
-| Tesla | ![TSLA Dashboard](examples/TSLA_dashboard.png) |
+| Microsoft | ![MSFT Dashboard](examples/MSFT_dashboard-06-06-25.png) |
+| Tesla | ![TSLA Dashboard](examples/TSLA_dashboard-06-06-25.png) |
 
 ## 🛠️ Development Setup
 
