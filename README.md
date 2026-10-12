@@ -76,6 +76,7 @@ requirements.txt    Dependencies
 
 Built with matplotlib, pandas, numpy, scipy and the `twelvedata` client.
 
+
 ## Licence
 
 MIT. Author: Paul Kwarteng ([@Boakye-20](https://github.com/Boakye-20) ·
