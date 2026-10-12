@@ -32,7 +32,7 @@ python stock_analyzer.py GOOGL --period 6mo --save reports/google.png
 
 | Option | Values | Default |
 | --- | --- | --- |
-| `ticker` | Any Twelve Data symbol — stocks, ETFs, indices | required |
+| `ticker` | Any Twelve Data symbol (stocks, ETFs, indices) | required |
 | `--period` | `1mo`, `3mo`, `6mo`, `1y`, `2y`, `5y` | `2y` |
 | `--save` | Path to write the PNG to | shows on screen |
 
